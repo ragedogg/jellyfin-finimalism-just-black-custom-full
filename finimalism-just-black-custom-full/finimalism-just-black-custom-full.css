@@ -21,7 +21,7 @@
 } */
 
 .backgroundContainer {
-    background: url(https://raw.githubusercontent.com/ragedogg/jellyfin-finimalism-just-black-custom-full/refs/heads/main/finimalism-just-black-custom-full/dGBenC7.jpeg) center top no-repeat #000;
+    background: url(/dGBenC7.jpeg) center top no-repeat #000;
     -webkit-background-size: cover;
     background-size: cover;
 	opacity: 0.2;
