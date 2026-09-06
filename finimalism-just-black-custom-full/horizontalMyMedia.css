@@ -1,0 +1,10 @@
+/** @format */
+#indexPage .section0 .itemsContainer {
+  flex-wrap: nowrap !important;
+}
+
+#indexPage .section0 .emby-scrollbuttons {
+  display: block !important;
+}
+
+/*# sourceMappingURL=horizontalMyMedia.css.map */

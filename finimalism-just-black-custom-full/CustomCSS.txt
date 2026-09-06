@@ -1,0 +1,14 @@
+@import url("/web/themes/finimalism/finimalism-just-black.css");
+.backgroundContainer {
+    background: url(/web/themes/finimalism/gpe0jJc.jpeg) center top no-repeat #000; !important
+}
+.backgroundContainer.withBackdrop {
+    background: url(/web/themes/finimalism/gpe0jJc.jpeg) center top no-repeat #000; !important
+}
+.detailPagePrimaryContainer::before{
+    background: url(/web/themes/finimalism/gpe0jJc.jpeg) center top no-repeat #000; !important
+    opacity: 0.8;
+}
+.detailPageSecondaryContainer::before{
+    background: url(/web/themes/finimalism/gpe0jJc.jpeg) center top no-repeat #000; !important
+}
